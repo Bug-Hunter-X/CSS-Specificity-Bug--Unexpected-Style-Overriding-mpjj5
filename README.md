@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon CSS bug related to selector specificity. The bug arises from unexpected style overriding due to the higher specificity of the `#myID p` selector compared to the `.myClass p` selector.  The solution showcases how to correctly handle specificity to achieve the desired styling.
